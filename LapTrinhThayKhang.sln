@@ -16,8 +16,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		.gitignore = .gitignore
 	EndProjectSection
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.vcxproj", "{EB6A2EF9-C98D-456E-81BD-4074174FD067}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -58,14 +56,6 @@ Global
 		{5D341817-F5D3-47FD-8558-05D6FF71A197}.Release|x64.Build.0 = Release|x64
 		{5D341817-F5D3-47FD-8558-05D6FF71A197}.Release|x86.ActiveCfg = Release|Win32
 		{5D341817-F5D3-47FD-8558-05D6FF71A197}.Release|x86.Build.0 = Release|Win32
-		{EB6A2EF9-C98D-456E-81BD-4074174FD067}.Debug|x64.ActiveCfg = Debug|x64
-		{EB6A2EF9-C98D-456E-81BD-4074174FD067}.Debug|x64.Build.0 = Debug|x64
-		{EB6A2EF9-C98D-456E-81BD-4074174FD067}.Debug|x86.ActiveCfg = Debug|Win32
-		{EB6A2EF9-C98D-456E-81BD-4074174FD067}.Debug|x86.Build.0 = Debug|Win32
-		{EB6A2EF9-C98D-456E-81BD-4074174FD067}.Release|x64.ActiveCfg = Release|x64
-		{EB6A2EF9-C98D-456E-81BD-4074174FD067}.Release|x64.Build.0 = Release|x64
-		{EB6A2EF9-C98D-456E-81BD-4074174FD067}.Release|x86.ActiveCfg = Release|Win32
-		{EB6A2EF9-C98D-456E-81BD-4074174FD067}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
